@@ -1,0 +1,47 @@
+/* .main_header {
+    height: 50px;
+    width: 100%;
+    background: black;
+}
+
+.box {
+    height: 90vh;
+    width: 25%;
+    background: grey;
+    float: left;
+} */
+
+
+.main_header {
+    height: 50px;
+    width:100%;
+    background: #555;
+}
+
+.box {
+    height:90vh;
+    width:25%;
+    background: #999;
+    float: left;
+}
+
+.middle_box {
+    width:50%;
+    background: yellow;
+}
+
+.top {
+    width:100%;
+    background: #fff;
+    height:70vh;
+}
+
+.bottom {
+    height:20vh;
+    width:100%;
+    background: #000;
+}
+
+
+
+
